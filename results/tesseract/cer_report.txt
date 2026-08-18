@@ -1,0 +1,10 @@
+TESSERACT OCR - CER REPORT
+============================================================
+Samples per level: 50
+Random seed: 42
+
+exact           Samples: 50   CER: 0.1439
+page            Samples: 50   CER: 0.1193
+sentence        Samples: 50   CER: 0.0631
+paragraph       Samples: 50   CER: 0.1063
+word            Samples: 50   CER: 0.0096
