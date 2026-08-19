@@ -1,0 +1,10 @@
+QWEN3-VL OCR - CER REPORT
+============================================================
+
+exact           Samples: 50   CER: 0.0678
+page            Samples: 50   CER: 0.3647
+sentence        Samples: 50   CER: 0.0951
+paragraph       Samples: 50   CER: 0.0805
+word            Samples: 50   CER: 0.1383
+
+
